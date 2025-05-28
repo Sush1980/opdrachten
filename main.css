@@ -1,0 +1,70 @@
+/* Header */
+header {
+	background-color: #FFCCCC;
+}
+
+/* Footer */
+footer {
+	background-color: #FFCC00;
+}
+
+/* Titels */
+h1, h2, h3{
+color: red;}
+
+/* Tabel */
+table { 
+	
+}
+table {
+		width:600px;
+}
+th {
+	background-color: #FF680D; text-transform: uppercase;
+}
+td {
+	background-color: #FFB136;
+}
+
+#a1 {
+	background-color: #C7FF2C;
+}
+
+#a2 {
+	background-color: #FF680D;
+}
+#a3 {
+	background-color: #13FF17;
+}
+#a4 {
+	background-color: #FF184D;
+}
+
+#b1 {
+	background-color: #FF680D;
+}
+
+#b2 {
+	background-color: #FF184D;
+}
+#b3 {
+	background-color: #C7FF2C;
+}
+#b4 {
+	background-color: #13FF17;
+}
+
+
+#c1 {
+	background-color: #13FF17;
+}
+
+#c2 {
+	background-color: #C7FF2C;
+}
+#c3 {
+	background-color: #FF680D;
+}
+#c4 {
+	background-color: #FF184D;
+}
